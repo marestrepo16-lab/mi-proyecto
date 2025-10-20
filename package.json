@@ -4,8 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ejercicio1": ""
-  },
+    "Ejercicio1": "node ejercicios/ejercicio1.js",
+    "Ejercicio2": "node ejercicios/ejercicio2.js",
+    "Ejercicio3": "node ejercicios/ejercicio3.js",                                            
+    "Ejercicio4": "node ejercicios/ejercicio4.js",
+    "Ejercicio5": "node ejercicios/ejercicio5.js",
+    "Ejercicio6": "node ejercicios/ejercicio6.js",
+    "Ejercicio7": "node ejercicios/ejercicio7.js",
+    "Ejercicio8": "node ejercicios/ejercicio8.js",
+    "Ejercicio9": "node ejercicios/ejercicio9.js",
+    "Ejercicio10": "node ejercicios/ejercicio10.js"
+    
+},
   "keywords": [],
   "author": "",
   "license": "ISC"
